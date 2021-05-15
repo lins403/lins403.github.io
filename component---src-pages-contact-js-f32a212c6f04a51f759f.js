@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[501],{219:function(e,t,r){"use strict";var l=r(294);t.Z=function(e){return l.createElement("h1",null,e.headerText)}},262:function(e,t,r){"use strict";r.r(t);var l=r(294),n=r(444),a=r(219);t.default=function(){return l.createElement("div",{style:{color:"teal"}},l.createElement(n.rU,{to:"/"},"Home"),l.createElement(a.Z,{headerText:"Contact"}),l.createElement("p",null,"Send us a message!"))}}}]);
+//# sourceMappingURL=component---src-pages-contact-js-f32a212c6f04a51f759f.js.map
