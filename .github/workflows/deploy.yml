@@ -16,7 +16,6 @@ jobs:
         env:
           CI: false
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GOOGLE_ANALYTICS_ID: "G-F9H370RCF5"
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@releases/v3
