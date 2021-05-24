@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{"i6+/":function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),o=n("Q3iF"),u=n("Wbzz");t.default=function(){return a.createElement(o.a,null,a.createElement("h1",null,"404 - Not Found"),a.createElement("p",null,"You just hit a route that doesn't exist. You can go back to ",a.createElement(u.Link,{to:"/"},"the homepage")," and try again."))}}}]);
+//# sourceMappingURL=component---src-pages-404-tsx-dcb00e565f426f18a6b5.js.map
