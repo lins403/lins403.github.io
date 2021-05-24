@@ -3,7 +3,7 @@ import React from 'react'
 import Title from "@lekoarts/gatsby-theme-minimal-blog/src/components/title"
 import { useStaticQuery, graphql } from "gatsby";
 import Listing from "./components/listing"
-import { Link } from "gatsby"
+import { Link } from "theme-ui"
 
 export default (props)=>{
     const {

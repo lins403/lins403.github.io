@@ -110,6 +110,6 @@ module.exports = {
         fetchOptions: {},
       },
     },
-    
+    // `gatsby-plugin-mdx`,
   ].filter(Boolean),
 }
