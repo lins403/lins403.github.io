@@ -18,7 +18,7 @@ const ReadingCard = ({listData})=>{
                             <div style={{height: '250px', width:'100%'}}>
                                 <Link href={data.cover_link} target={`_blank`}><Image src={data.cover} referrerPolicy ="never" style={{maxHeight: '95%'}}/></Link></div>
                             {/* <Text style={{ textAlign:'center', overflow:'hidden', textOverflow:'ellipsis',whiteSpace:'nowrap'}}>{data.title}</Text> */}
-                            <Text>{data.time}</Text>
+                            <Text style={{transform: 'translateY(-10px)'}}>{data.time}</Text>
                         </Card> 
             })
         ) 
